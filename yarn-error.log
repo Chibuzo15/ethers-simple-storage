@@ -1,0 +1,27 @@
+Arguments: 
+  /Users/mac/.nvm/versions/node/v16.10.0/bin/node /Users/mac/.nvm/versions/node/v16.10.0/bin/yarn add solc
+
+PATH: 
+  /Users/mac/.nvm/versions/node/v16.10.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/mac/.nvm/versions/node/v16.10.0/bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  16.10.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
